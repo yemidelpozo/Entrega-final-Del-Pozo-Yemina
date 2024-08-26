@@ -285,3 +285,6 @@ Este usuario tiene permisos para consultar la tabla RESERVAS.
 Este usuario puede consultar todas las vistas sobre reservas.
 
 
+## BACKUP
+
+Se adjunta también archivo SQL con el backup de la base de datos
